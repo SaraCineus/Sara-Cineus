@@ -1,2 +1,5 @@
+
 # Sara-Cineus
-My personal repository 
+My About Me!
+
+I am currently learning Python, Excel, SQL, and Tableau
